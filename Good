@@ -42,10 +42,6 @@ http://cdn.miip.tv:8080/canada/123456/79
 http://cdn.miip.tv:8080/canada/123456/92
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/88EGHb5.jpg" group-title="CINE",HISTORY HD
 http://tvpremiumhd.club/lista-gratuita/213011/tv/live.php?id=2669
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3mIalt.jpg" group-title="CANALES 24/7",24/7 MALCOM EL DE ENMEDIO
-http://tvpremiumhd.club/lista-gratuita/213011/tv/live.php?id=2509
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7",24/7 PELICULAS 4K (SE RECOMIENDA +25MB)
-http://tvpremiumhd.club/lista-gratuita/213011id/on/bi.php?id=2NFH3Q0
 #EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="CHINA",National Geographic
 http://tvpremiumhd.club/lista-gratuita/213011/on/live.php?id=httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000101&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME HEALTH HD" tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="ENTRETENIMIENTO",DISCOVERY HOME HEALTH HD
