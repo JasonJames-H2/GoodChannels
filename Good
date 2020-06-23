@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno"1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png",NICKELODON LATINO
-http://cdn.miip.tv:8080/canada/123456/3692
+#EXTINF:-1 tvg-chno"1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png",NICKELODON LATINO NEW
+http://89.105.194.59:25461/live/spin01jk/spin01jk/61.m3u8
 #EXTINF:-1 tvg-chno"2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/NICK_Movies.svg",NICK MOVIES
 http://cdn.miip.tv:8080/canada/123456/3693
 #EXTINF:-1 tvg-chno"3"tvg-logo="https://www.models-resource.com/resources/big_icons/30/29991.png",NICK GAMES
